@@ -151,12 +151,12 @@ ORDER BY SOMME_PRIX DESC;
 
 --QUESTION 22
 INSERT INTO OUTILS_OUTIL (CODE_OUTIL, NOM, FABRICANT, CARACTERISTIQUES, ANNEE, PRIX)
-VALUES ('0101', 'NouveauOutil', 'NouveauFabricant', 'CaracteristiquesNouvelles', 2024, 99.99);
+VALUES ('0101', 'Ordi', 'Dell', 'Intel', 2024, 800);
 
 
 --QUESTION 23
 INSERT INTO OUTILS_OUTIL (CODE_OUTIL, NOM, FABRICANT, CARACTERISTIQUES, ANNEE, PRIX)
-VALUES ('0102', 'NouveauOutil', 'NouveauFabricant', 'CaracteristiquesNouvelles', 2024, 99.99);
+VALUES ('0102', 'Mac', 'Apple', 'MacOS', 2024, 1500);
 
 
 --QUESTION 24
